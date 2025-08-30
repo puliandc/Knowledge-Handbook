@@ -16,3 +16,24 @@
 - 标签：#todo #obsidian #workflow #knowledge-base
 - 备注：考虑在周末或日记时间决定是否加入执行清单
 - 链接：https://github.com/puliandc/Knowledge-Handbook/blob/main/Productivity/Obsidian-AI-Writing.md
+
+- [ ] 实践 AI 高产出写作方法论  
+- 来源：播客《如何像丘吉尔一样写作？专业媒体用AI的方法及避坑指南》(脑放电波 Vol.68)  
+- 时间：2025-08-30  
+- 标签：#todo #ai #writing #workflow #knowledge-base  
+- 关键点：  
+  1. 明确观点  
+  2. AI 负责执行  
+  3. 输入关键：充足、高质量口述（解决原创观点与视觉信息转化难题）  
+  4. 写作流水线：AI 生成提纲 → 人工修订 → AI 执笔 → 人工精修  
+- 备注：考虑以此方法论与 AI 合作产出一篇完整文章  模板在[[AI-CoWriting-Experiment]]
+- 链接：[节目地址](https://www.xiaoyuzhoufm.com/episode/6814354447ebeede7e6c98f9?s=eyJ1IjoiNjQxN2QwMjNlZGNlNjcxMDRhNjcwZjA5In0%3D)
+
+- [ ] 借鉴「造好物」平台模式，设计个人独立站商业流程  
+- 来源：[抖音创始团队成员，做了一个AI创意的造物平台｜涌现NewThings](https://36kr.com/p/2872795423907208)  
+- 时间：2025-08-30  
+- 标签：#todo #business #ai #supply-chain #indie-site  
+- 关键点：  
+  - 用户下单（独立站） → AI 生成设计（Hitem3D 等） → 国内代工/3D 打印 → 跨境物流交付  
+  - 验证造好物 AI 工具与供应链能否直接借用  
+- 备注：在周末/复盘时，尝试画出详细流程图并选定第一批产品类别
